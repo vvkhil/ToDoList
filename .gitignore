@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+.env
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# React
+todo-frontend/node_modules/
+todo-frontend/build/
+
+# Backend
+todo-backend/node_modules/
